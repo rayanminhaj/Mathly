@@ -26,7 +26,7 @@ It provides an intuitive interface that simplifies complex computations with rea
 
 | Section | Screenshot |
 |----------|-------------|
-| **Home Screen** | ![Home](Mathly_Home.png) |
+| **Home Screen** | ![Home](https://github.com/rfm5898/Mathly/blob/master/Mathly/Mathly_Home.png) |
 | **Feature Menu** | ![Features](Mathly_Features.png) |
 | **Matrix Operations Example** | ![Matrix Operations](Mathly_MatrixOperations.png) |
 | **Terminal Execution Example** | ![Terminal](Mathly_Terminal.png) |
