@@ -1,11 +1,11 @@
-# 🧮 Mathly
+# Mathly
 
 See how Mathly helps you solve equations, visualize functions and perform advanced mathematical operations — all in a single interactive web app!  
 Quantify, analyze and visualize mathematical expressions using modern Python libraries like **Streamlit**, **NumPy**, **SymPy**, and **Matplotlib**.
 
 ---
 
-## ✨ About the Project
+## About the Project
 
 **Mathly** is a web-based tool that helps students, engineers, and analysts interactively solve equations, plot graphs and perform matrix and statistical operations.  
 The application is powered by **Streamlit** and uses symbolic mathematics through **SymPy**.  
@@ -13,16 +13,16 @@ It provides an intuitive interface that simplifies complex computations with rea
 
 ---
 
-## ⚙️ Features
+## Features
 
-- 🧾 **Solve Equations** — Enter algebraic or trigonometric equations and get step-by-step solutions.  
-- 📈 **Plot Functions** — Visualize mathematical functions on dynamic graphs.  
-- 🔢 **Matrix Operations** — Perform addition, multiplication, inversion and determinant calculations.  
-- 📊 **Statistics (Coming Soon)** — Compute mean, variance and other statistical measures.  
+- **Solve Equations** — Enter algebraic or trigonometric equations and get step-by-step solutions.  
+- **Plot Functions** — Visualize mathematical functions on dynamic graphs.  
+- **Matrix Operations** — Perform addition, multiplication, inversion and determinant calculations.  
+- **Statistics (Coming Soon)** — Compute mean, variance and other statistical measures.  
 
 ---
 
-## 🧩 Preview
+## Preview
 
 | Section | Screenshot |
 |----------|-------------|
@@ -33,7 +33,7 @@ It provides an intuitive interface that simplifies complex computations with rea
 
 ---
 
-## 🧠 How Mathly Works
+## How Mathly Works
 
 1. User inputs an equation or selects an operation.  
 2. The expression is parsed using **SymPy** for symbolic computation.  
@@ -44,14 +44,14 @@ This makes Mathly ideal for students, developers and data enthusiasts to test, v
 
 ---
 
-## ⚡ How to Run the Code
+## How to Run the Code
 
 If you do not have **git** installed, [download it here](https://git-scm.com/downloads).  
 If you do not have **pip** installed, [download it here](https://pip.pypa.io/en/stable/installation/).
 
 ---
 
-### 🧩 Step 1 — Clone the Repository
+### Step 1 — Clone the Repository
 
 ```bash
 git clone https://github.com/rfm5898/Mathly.git
@@ -59,7 +59,7 @@ git clone https://github.com/rfm5898/Mathly.git
 
 ---
 
-### 🧩 Step 2 — Navigate to the Project Folder
+### Step 2 — Navigate to the Project Folder
 
 ```bash
 cd Mathly
@@ -67,7 +67,7 @@ cd Mathly
 
 ---
 
-### 🧩 Step 3 — Create and Activate a Virtual Environment
+### Step 3 — Create and Activate a Virtual Environment
 
 **Windows:**
 ```bash
@@ -83,7 +83,7 @@ source venv/bin/activate
 
 ---
 
-### 🧩 Step 4 — Install Dependencies
+### Step 4 — Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -96,7 +96,7 @@ python -m pip install -r requirements.txt
 
 ---
 
-### 🧩 Step 5 — Run the Application
+### Step 5 — Run the Application
 
 ```bash
 streamlit run Mathly.py
@@ -107,7 +107,7 @@ Once it runs successfully, your terminal should look like this:
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 Mathly/
@@ -122,7 +122,7 @@ Mathly/
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - **Python 3.12**
 - **Streamlit**
@@ -132,7 +132,7 @@ Mathly/
 
 ---
 
-## 🧾 Notes
+## Notes
 
 - Mathly runs fully offline and is lightweight.  
 - Uses symbolic computation with **SymPy** and dynamic plotting with **Matplotlib**.  
@@ -140,10 +140,10 @@ Mathly/
 
 ---
 
-## 👨‍💻 About the Developer
+## About the Developer
 
 Developed by **Rayan Minhaj**  
-🎓 Computer Science Major @ The Pennsylvania State University  
-📫 Connect: [LinkedIn](https://www.linkedin.com/in/rayan-minhaj-%F0%9F%A4%96-a8492134b/) | [GitHub](https://github.com/rfm5898)
+Computer Science Major @The Pennsylvania State University  
+Connect with ME: [LinkedIn](https://www.linkedin.com/in/rayan-minhaj-%F0%9F%A4%96-a8492134b/) | [GitHub](https://github.com/rfm5898)
 
 ---
