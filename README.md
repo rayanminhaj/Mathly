@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://github.com/rayanminhaj/Mathly/blob/master/mathly_preview.png" alt="Mathly Preview" width="800"/>
 </p>
-# Mathly
+
+## Mathly
 
 See how Mathly helps you solve equations, visualize functions and perform advanced mathematical operations — all in a single interactive web app!  
 Quantify, analyze and visualize mathematical expressions using modern Python libraries like **Streamlit**, **NumPy**, **SymPy**, and **Matplotlib**.
