@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/rayanminhaj/Mathly/blob/master/mathly_preview.png" alt="Mathly Preview" width="800"/>
+</p>
 # Mathly
 
 See how Mathly helps you solve equations, visualize functions and perform advanced mathematical operations — all in a single interactive web app!  
